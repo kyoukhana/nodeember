@@ -1,2 +1,8 @@
+## Overview
 Just learning node-ember
-use npm install
+
+## Prerequisites
+- Node.js `http://nodejs.org`
+
+## Usage
+Clone repo and run npm update
